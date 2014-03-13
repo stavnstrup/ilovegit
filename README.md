@@ -7,14 +7,11 @@ of online resources on the net collected in the last couple of years.
 Git Books
 =========
 
-* [Pro Git professional version control](http://progit.org/book/) -
+* [Pro Git professional version control](http://book.git-scm.com/) -
     Scott Chacons book about Git
 
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) -
     Alternative book about Git
-
-* [The Git Community Book](http://book.git-scm.com/index.html) - A Git
-    book from the Git community
 
 * [Git - Tutorial](http://www.vogella.com/tutorials/Git/article.html)
 
