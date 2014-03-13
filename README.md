@@ -1,11 +1,11 @@
-
+# ilovegit
 
 Git can be intimidating for beginners, so here is a small collection
 of online resources on the net collected in the last couple of years.
 
 
-Git Books
-=========
+## Git Books
+
 
 * [Pro Git professional version control](http://book.git-scm.com/) -
     Scott Chacons book about Git
@@ -19,8 +19,8 @@ Git Books
     newer)](http://schacon.github.com/git/user-manual.html)
 
 
-Git Technical
-=============
+## Git Technical
+
 
 * [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/)
 
@@ -33,8 +33,8 @@ Git Technical
 
 * [A time traveller’s guide to Git](http://www.netmagazine.com/features/time-travellers-guide-git) - Brandon Keepers on February 20, 2013 - .net magazine
 
-Misc Git
-========
+## Misc Git
+
 
 * [Git](http://git-scm.com/) - The primary Git web site managed by Scott Chacon
 
@@ -55,8 +55,8 @@ Misc Git
 
 * [Kernel Hackers' Guide to git](http://linux.yyz.us/git-howto.html)
 
-Git and Subversion
-==================
+## Git and Subversion
+
 
 * [Effectively Using Git With
   Subversion](http://www.viget.com/extend/effectively-using-git-with-subversion/)
@@ -70,8 +70,8 @@ Git and Subversion
 * [Git-SVN Mirror for multiple
     branches](http://blog.tfnico.com/2010/11/git-svn-mirror-for-multiple-branches.html)
 
-Git Extensions
-==============
+## Git Extensions
+
 
 * [Git Annex](http://git-annex.branchable.com/) - allows managing
   files with Git, without checking the file contents into Git
@@ -79,13 +79,13 @@ Git Extensions
 * [vcsh](https://github.com/RichiH/vcsh) - Manage config files in
   \$HOME via fake bare git repositories
 
-Git Briefings
-=============
+## Git Briefings
+
 
 * [Linus Torvalds' Greatest Invention](http://perl.plover.com/classes/git/)
 
-Git Short Recipies
-==================
+## Git Short Recipies
+
 
 * [Copy files between Git
   branches](http://xliska.wordpress.com/2010/09/22/copy-files-between-git-branches/)
@@ -107,16 +107,21 @@ Git Short Recipies
 
 * [Git Ready](http://gitready.com/)
 
-Git Podcasts
-============
+## Git Podcasts
+
 
 * [Scott Chacon (Mr. Git) on The
   Changelog](http://thechangelog.com/post/3445186374/episode-0-4-9-git-showoff-and-xbox-kinect-with-scott-cha)
 
-Git Videos
-==========
 
-## Beginners
+
+
+
+
+## Git Videos
+
+
+### Beginners
 
 
 * [Introduction to Git with Scott Chacon of
@@ -128,7 +133,7 @@ Git Videos
 
 
 
-## Advanced
+### Advanced
 
 * [Git Internals - Graphs, Hashes, and
   Compression](http://youtu.be/I-lGyn3PHP4) - John Britten describes
@@ -140,7 +145,7 @@ Git Videos
   using hashes and plumming tools
 
 
-## TDB
+### TDB
 
 * [Git Tutorial
     Talk](http://excess.org/article/2008/07/ogre-git-tutorial/)
