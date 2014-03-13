@@ -1,7 +1,7 @@
 
 
 Git can be intimidating for beginners, so here is a small collection
-of resources on the net.
+of resources on the net collected in the last couple of years.
 
 
 Git Books
