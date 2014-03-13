@@ -119,8 +119,19 @@ Git Podcasts
 Git Videos
 ==========
 
+## Beginners
+
+
 * [Introduction to Git with Scott Chacon of
   GitHub](http://www.youtube.com/watch?v=ZDR433b0HJY)
+
+
+* [Thorvalds on Git](http://www.youtube.com/watch?v=4XpnKHJAok8) -
+  Linus Thorvals visits Gogle to share his thoughts on Git
+
+
+
+## Advanced
 
 * [Git Internals - Graphs, Hashes, and
   Compression](http://youtu.be/I-lGyn3PHP4) - John Britten describes
@@ -131,9 +142,8 @@ Git Videos
   My!](http://www.youtube.com/watch?v=ig5E8CcdM9g) - Unmystifing Git
   using hashes and plumming tools
 
-* [Thorvalds on Git](http://www.youtube.com/watch?v=4XpnKHJAok8) -
-  Linus Thorvals visits Gogle to share his thoughts on Git
 
+## TDB
 
 * [Git Tutorial
     Talk](http://excess.org/article/2008/07/ogre-git-tutorial/)
