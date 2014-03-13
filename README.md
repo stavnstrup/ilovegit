@@ -36,6 +36,8 @@ of online resources on the net collected in the last couple of years.
 ## Misc Git
 
 
+* [Git man pages in HTML](https://www.kernel.org/pub/software/scm/git/docs/)
+
 * [Git](http://git-scm.com/) - The primary Git web site managed by Scott Chacon
 
 * [Git Repository](http://git.kernel.org/?p=git/git.git;a=summary) -
