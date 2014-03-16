@@ -72,7 +72,7 @@ of online resources on the net collected in the last couple of years.
 * [Git-SVN Mirror for multiple
     branches](http://blog.tfnico.com/2010/11/git-svn-mirror-for-multiple-branches.html)
 
-## Git Extensions
+## Git tools and alternativ usage of Git
 
 
 * [Git Annex](http://git-annex.branchable.com/) - allows managing
@@ -80,6 +80,8 @@ of online resources on the net collected in the last couple of years.
 
 * [vcsh](https://github.com/RichiH/vcsh) - Manage config files in
   \$HOME via fake bare git repositories
+
+* [BFG Repo-Cleaner](http://rtyley.github.io/bfg-repo-cleaner/) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 
 ## Git Briefings
 
@@ -109,8 +111,8 @@ of online resources on the net collected in the last couple of years.
 
 * [Git Ready](http://gitready.com/)
 
-## Git Podcasts
 
+## Git Podcasts
 
 * [Scott Chacon (Mr. Git) on The
   Changelog](http://thechangelog.com/post/3445186374/episode-0-4-9-git-showoff-and-xbox-kinect-with-scott-cha)
@@ -123,6 +125,12 @@ of online resources on the net collected in the last couple of years.
 ## Git Videos
 
 
+### Overview
+
+* [Thorvalds on Git](http://www.youtube.com/watch?v=4XpnKHJAok8) -
+  Linus Thorvals visits Gogle to share his thoughts on Git
+
+
 ### Beginners
 
 
@@ -130,12 +138,13 @@ of online resources on the net collected in the last couple of years.
   GitHub](http://www.youtube.com/watch?v=ZDR433b0HJY)
 
 
-* [Thorvalds on Git](http://www.youtube.com/watch?v=4XpnKHJAok8) -
-  Linus Thorvals visits Gogle to share his thoughts on Git
-
-
 
 ### Advanced
+
+* [O'Reilly Webcast: The Fringes of
+  Git](http://www.youtube.com/watch?v=qh-R0-7Ii_U) - Matthew
+  McCullough and Tim Berglund introduces the edges of Git. Covers
+  rebase, interactive rebase, reflog, 
 
 * [Git Internals - Graphs, Hashes, and
   Compression](http://youtu.be/I-lGyn3PHP4) - John Britten describes
@@ -145,6 +154,11 @@ of online resources on the net collected in the last couple of years.
 * [Advanced Git: Graphs, Hashes, and Compression, Oh
   My!](http://www.youtube.com/watch?v=ig5E8CcdM9g) - Unmystifing Git
   using hashes and plumming tools
+
+* [Advanced Git -
+  JavaZone](http://www.youtube.com/watch?v=slmajVnC9yE) - Tim Berglund
+  on commit by hand, rebase, rebase -i, rebase on pull, external diff
+  tools, advanced logging, reflog, reset
 
 
 ### TDB
@@ -156,4 +170,3 @@ of online resources on the net collected in the last couple of years.
     v1.0](http://www.youtube.com/watch?v=GTMC3g2Xy8c) - Amazing
     visualisation of the development of Git up to version 1.0
 
-* [O'Reilly Webcast: The Fringes of Git](http://www.youtube.com/watch?v=qh-R0-7Ii_U)
