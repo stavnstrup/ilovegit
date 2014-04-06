@@ -8,15 +8,17 @@ of online resources on the net collected in the last couple of years.
 
 
 * [Pro Git professional version control](http://book.git-scm.com/) -
-    Scott Chacons book about Git
-
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) -
-    Alternative book about Git
+    Scott Chacons book about Git.
 
 * [Git - Tutorial](http://www.vogella.com/tutorials/Git/article.html)
+  - A no-nonsence and well written brief overview of Git. Should get
+  you started in no time.
 
 * [Git User’s Manual (for version 1.5.3 or
     newer)](http://schacon.github.com/git/user-manual.html)
+
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) -
+    Alternative book about Git
 
 
 ## Git Technical
@@ -35,8 +37,9 @@ of online resources on the net collected in the last couple of years.
 
 ## Misc Git
 
-
 * [Git man pages in HTML](https://www.kernel.org/pub/software/scm/git/docs/)
+
+* [Git Downloads](https://www.kernel.org/pub/software/scm/git/) - Download Git sources and archives with Git documentation
 
 * [Git](http://git-scm.com/) - The primary Git web site managed by Scott Chacon
 
@@ -119,9 +122,6 @@ of online resources on the net collected in the last couple of years.
 
 
 
-
-
-
 ## Git Videos
 
 
@@ -144,7 +144,7 @@ of online resources on the net collected in the last couple of years.
 * [O'Reilly Webcast: The Fringes of
   Git](http://www.youtube.com/watch?v=qh-R0-7Ii_U) - Matthew
   McCullough and Tim Berglund introduces the edges of Git. Covers
-  rebase, interactive rebase, reflog, 
+  rebase, interactive rebase, reflog etc. 
 
 * [Git Internals - Graphs, Hashes, and
   Compression](http://youtu.be/I-lGyn3PHP4) - John Britten describes
