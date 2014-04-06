@@ -10,9 +10,7 @@ of online resources on the net collected in the last couple of years.
 * [Pro Git professional version control](http://book.git-scm.com/) -
     Scott Chacons book about Git.
 
-* [Git - Tutorial](http://www.vogella.com/tutorials/Git/article.html)
-  - A no-nonsence and well written brief overview of Git. Should get
-  you started in no time.
+* [Git - Tutorial](http://www.vogella.com/tutorials/Git/article.html) - A no-nonsence and well written brief overview of Git. Should get you started in no time.
 
 * [Git User’s Manual (for version 1.5.3 or
     newer)](http://schacon.github.com/git/user-manual.html)
