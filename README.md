@@ -1,16 +1,73 @@
-# ilovegit
 
 Git can be intimidating for beginners, so here is a small collection
 of online resources on the net collected in the last couple of years.
+
+# Git for beginners
+
+
+## Book and articles
+
+* [Git - Tutorial](http://www.vogella.com/tutorials/Git/article.html) - A 
+    no-nonsence and well written brief overview of Git. Should get
+    you started in no time.
+
+* [Pro Git professional version control](http://book.git-scm.com/) -
+    Scott Chacons book about Git. This was the first book on Git. In a
+    few areas on the tools side, it is a bit outdated but most of the
+    material is quite good.
+
+## Reference material
+
+* [Git Reference](http://gitref.org/index.html) - Quick reference to the most used Git commands.
+
+* [Git](http://git-scm.com/) - The primary Git web site managed by Scott Chacon. Contains software, man pages, and his book.
+
+* [Git man pages in HTML](https://www.kernel.org/pub/software/scm/git/docs/) - The complete set of man pages in HTML. Extensive material, that also contains substandial additional material.
+
+## Video presentations
+
+
+* [Thorvalds on Git](http://www.youtube.com/watch?v=4XpnKHJAok8) -
+  Linus Thorvals visits Gogle to share his thoughts on Git. This is
+  more of a generic talk and not really a tutorial.
+
+* [Introduction to Git with Scott Chacon of
+  GitHub](http://www.youtube.com/watch?v=ZDR433b0HJY) - A fast speaking Scott Chacon gives a nice simple introduction to Git.
+
+
+# Advanced Git
+
+THE REST OF THIS PAGE NEEDS TO BE REORGANIZED.
+
+ 
+
+## Advanced Presentations
+
+
+* [O'Reilly Webcast: The Fringes of
+  Git](http://www.youtube.com/watch?v=qh-R0-7Ii_U) - Matthew
+  McCullough and Tim Berglund introduces the edges of Git. Covers
+  rebase, interactive rebase, reflog etc. 
+
+* [Git Internals - Graphs, Hashes, and
+  Compression](http://youtu.be/I-lGyn3PHP4) - John Britten describes
+  the internal datastructure of Git and what happens when merging and
+  rebasing.
+
+* [Advanced Git: Graphs, Hashes, and Compression, Oh
+  My!](http://www.youtube.com/watch?v=ig5E8CcdM9g) - Unmystifing Git
+  using hashes and plumming tools
+
+* [Advanced Git -
+  JavaZone](http://www.youtube.com/watch?v=slmajVnC9yE) - Tim Berglund
+  on commit by hand, rebase, rebase -i, rebase on pull, external diff
+  tools, advanced logging, reflog, reset
+
 
 
 ## Git Books
 
 
-* [Pro Git professional version control](http://book.git-scm.com/) -
-    Scott Chacons book about Git.
-
-* [Git - Tutorial](http://www.vogella.com/tutorials/Git/article.html) - A no-nonsence and well written brief overview of Git. Should get you started in no time.
 
 * [Git User’s Manual (for version 1.5.3 or
     newer)](http://schacon.github.com/git/user-manual.html)
@@ -35,11 +92,8 @@ of online resources on the net collected in the last couple of years.
 
 ## Misc Git
 
-* [Git man pages in HTML](https://www.kernel.org/pub/software/scm/git/docs/)
 
 * [Git Downloads](https://www.kernel.org/pub/software/scm/git/) - Download Git sources and archives with Git documentation
-
-* [Git](http://git-scm.com/) - The primary Git web site managed by Scott Chacon
 
 * [Git Repository](http://git.kernel.org/?p=git/git.git;a=summary) -
   The Git repository where Git development takes place
@@ -51,8 +105,6 @@ of online resources on the net collected in the last couple of years.
 * [GCC GIT mirror](http://gcc.gnu.org/wiki/GitMirror)
 
 * [Git Tutorial](http://www.gromacs.org/Developer_Zone/Git/Git_Tutorial)
-
-* [Git Reference](http://gitref.org/index.html)
 
 * [GitAtApache](http://wiki.apache.org/general/GitAtApache)
 
@@ -123,40 +175,7 @@ of online resources on the net collected in the last couple of years.
 ## Git Videos
 
 
-### Overview
 
-* [Thorvalds on Git](http://www.youtube.com/watch?v=4XpnKHJAok8) -
-  Linus Thorvals visits Gogle to share his thoughts on Git
-
-
-### Beginners
-
-
-* [Introduction to Git with Scott Chacon of
-  GitHub](http://www.youtube.com/watch?v=ZDR433b0HJY)
-
-
-
-### Advanced
-
-* [O'Reilly Webcast: The Fringes of
-  Git](http://www.youtube.com/watch?v=qh-R0-7Ii_U) - Matthew
-  McCullough and Tim Berglund introduces the edges of Git. Covers
-  rebase, interactive rebase, reflog etc. 
-
-* [Git Internals - Graphs, Hashes, and
-  Compression](http://youtu.be/I-lGyn3PHP4) - John Britten describes
-  the internal datastructure of Git and what happens when merging and
-  rebasing.
-
-* [Advanced Git: Graphs, Hashes, and Compression, Oh
-  My!](http://www.youtube.com/watch?v=ig5E8CcdM9g) - Unmystifing Git
-  using hashes and plumming tools
-
-* [Advanced Git -
-  JavaZone](http://www.youtube.com/watch?v=slmajVnC9yE) - Tim Berglund
-  on commit by hand, rebase, rebase -i, rebase on pull, external diff
-  tools, advanced logging, reflog, reset
 
 
 ### TDB
