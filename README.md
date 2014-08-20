@@ -37,6 +37,8 @@ of online resources on the net collected in the last couple of years.
 
 # Advanced Git
 
+* [What to do when things go wrong with Git](https://github.com/k88hudson/git-flight-rules) - Kate Hudsons flight rules
+
 THE REST OF THIS PAGE NEEDS TO BE REORGANIZED.
 
  
