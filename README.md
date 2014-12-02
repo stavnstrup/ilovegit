@@ -95,6 +95,8 @@ THE REST OF THIS PAGE NEEDS TO BE REORGANIZED.
 ## Misc Git
 
 
+* [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
+
 * [Git Downloads](https://www.kernel.org/pub/software/scm/git/) - Download Git sources and archives with Git documentation
 
 * [Git Repository](http://git.kernel.org/?p=git/git.git;a=summary) -
